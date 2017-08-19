@@ -8,7 +8,7 @@ highlighter:         pygments
 permalink:           pretty
 
 # Setup
-title:               Blog
+title:               Chris Diana
 tagline:             'Tutorials, resources and tips for Web Developers'
 url:                 blog.chrisdianamedia.com
 baseurl:
