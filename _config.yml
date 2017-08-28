@@ -1,6 +1,6 @@
 # Dependencies
 #markdown:            redcarpet
-highlighter:         pygments
+highlighter:         rouge
 
 # Permalinks
 #
@@ -9,7 +9,7 @@ permalink:           pretty
 
 # Setup
 title:               Chris Diana
-tagline:             'Blog'
+tagline:             'Blog & Tutorials'
 url:                 blog.chrisdianamedia.com
 baseurl:
 paginate:            10
