@@ -1,1 +1,3 @@
-# CodokiTutorials, resources and tips for Web Developers
+# Blog
+
+Tutorials, resources and tips for Web Developers
