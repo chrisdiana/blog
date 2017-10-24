@@ -10,7 +10,7 @@ permalink:           pretty
 # Setup
 title:               Chris Diana
 tagline:             'Blog & Tutorials'
-url:                 chrisdianamedia.com/blog/
+url:                 blog.chrisdianamedia.com
 baseurl:
 paginate:            10
 
