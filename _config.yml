@@ -10,14 +10,14 @@ permalink:           pretty
 # Setup
 title:               Chris Diana
 tagline:             'Blog & Tutorials'
-url:                 blog.chrisdianamedia.com
+url:                 cdmedia.github.io/blog
 baseurl:
 paginate:            10
 
 # About/contact
 author:
   name:              Chris Diana
-  url:               https://chrisdianamedia.com
+  url:               https://cdmedia.github.io/blog/
   email:             cdiana.media@gmail.com
 
 # Custom vars
