@@ -66,3 +66,51 @@ input#search-input:-ms-input-placeholder { color: #fff; }
 	color: #393939;
 	text-decoration: none;
 }
+/* Tagging */
+ul.tag_list, ul.tag_list_in_post {
+	display: inline-block;
+	padding-left: 0px;
+	list-style: none;
+	margin: 0px;
+}
+li.inline.archive_list, li.tag_list_item {
+	display: block;
+	float: left;
+	margin: 0px 5px;
+	line-height: 14px;
+}
+a.tag_list_link {
+	font-size: 14px;
+	background: #268bd2;
+	color: #fff;
+	padding: 2px 8px;
+}
+ul.tag-box  {
+	list-style: none;
+	padding-left: 0px;
+	float: right;
+}
+.tag-box li {
+	background: #268bd2;
+	display: block;
+	float: left;
+	margin: 10px 5px;
+	padding: 0px 0px 0px 10px;
+}
+.tag-box li:hover {
+	background: #2074af;
+}
+.tag-box li a {
+	color: #fff;
+}
+.tag-box li span {
+	background: #545454;
+	padding: 3px 10px;
+}
+.tag-box li a:hover {
+	color: #83b5fa;
+	text-decoration: none;
+}
+li.tag_list_item {
+	line-height: 26px;
+}
